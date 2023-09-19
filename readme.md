@@ -1,1 +1,1 @@
-#titulo
+Primeiramente eu abri a maquina virtual,abri o terminal, acessei o link do github disponibilizado pelo professor como exemplo, copiei o link e abri em uma guia do github,logo depois copiei e colei no terminal modificando as partes solicitadas e por fim abri um novo repositorio no github e adicionei o meu arquivo read MD e o meu arquivo pessoal.
